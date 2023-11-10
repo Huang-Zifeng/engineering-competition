@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "app_linewalking.h": "c",
+        "app_motor.h": "c",
+        "motor.h": "c",
+        "servo.h": "c",
+        "stm32f4xx_it.h": "c"
+    }
+}
